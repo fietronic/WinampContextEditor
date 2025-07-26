@@ -16,10 +16,10 @@ except ImportError:
     PIL_AVAILABLE = False
     print("PIL not available - icon preview will be limited")
 
-class WinampRegistryManager:
+class WinampContextEditor:
     def __init__(self, root):
         self.root = root
-        self.root.title("Winamp Registry Manager")
+        self.root.title("Winamp Context Editor")
         self.root.geometry("600x500")
         
         # Default config
@@ -725,7 +725,7 @@ def main():
     else:
         root = tk.Tk()
     
-    app = WinampRegistryManager(root)
+    app = WinampContextEditor(root)
     root.mainloop()
 
 if __name__ == "__main__":
