@@ -7,3 +7,5 @@ Windows GUI tool for managing Winamp context menu entries in file explorer. Allo
 ## Usage
 
 Run as Administrator (required for registry modifications). Install `pip install Pillow` for icon preview functionality.
+
+PS: spent about 4 or 5 hours vibin this out in an evening. 
