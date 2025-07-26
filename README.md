@@ -1,6 +1,8 @@
-# Winamp Registry Manager
+# Winamp Context Menu Editor
 
 Windows GUI tool for managing Winamp context menu entries in file explorer. Allows you to enable/disable "Play in Winamp", "Enqueue in Winamp", and "Add to Bookmark list" options, select icons from winamp.exe for context menu, and backup/restore registry settings.
+
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://raw.githubusercontent.com/fietronic/WinampContextEditor/refs/heads/asssets/2025-07-25_WinampContextEditor.png) "Winamp Context Menu Editor")
 
 ## Usage
 
